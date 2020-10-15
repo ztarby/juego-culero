@@ -1,3 +1,2 @@
-# juego-culero
-juego de...ja cayeron me leyeron 
--con salsa extra picosa y carne seca gratis ya tengo ambre
+# windows forms pokemon or rpg or idk 
+Dont copy love my ugly proyect haha

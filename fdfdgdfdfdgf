@@ -1,7 +1,0 @@
-#include<instream>
-using namespace std
-
-int main()
-{
-cout >> Hazme un juego shooter 3D multijudaror que compita con Call of duty yy una empresa chingona tb;
-}
