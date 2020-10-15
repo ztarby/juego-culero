@@ -1,0 +1,9 @@
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\bin\Debug\Proyecto basura 293289328 ce sharp.exe.config
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\bin\Debug\Proyecto basura 293289328 ce sharp.exe
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\bin\Debug\Proyecto basura 293289328 ce sharp.pdb
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\obj\Debug\Proyecto basura 293289328 ce sharp.csprojAssemblyReference.cache
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\obj\Debug\Proyecto_basura_293289328_ce_sharp.Form1.resources
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\obj\Debug\Proyecto_basura_293289328_ce_sharp.Properties.Resources.resources
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\obj\Debug\Proyecto basura 293289328 ce sharp.csproj.GenerateResource.cache
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\obj\Debug\Proyecto basura 293289328 ce sharp.exe
+C:\Users\Ztarnux\source\repos\Proyecto basura 293289328 ce sharp\Proyecto basura 293289328 ce sharp\obj\Debug\Proyecto basura 293289328 ce sharp.pdb
