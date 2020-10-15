@@ -1,16 +1,17 @@
-# Super seguridad policy READMEE
+# Super policy READMEE
 
 ## Supported Versions
 
-veamos
+lets sseeeeeeee
 
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0   | :white_check_mark: |
-| tomate   | :x:                |
-| magiclandia9128712   | :x: |
+| Tomatoe   | :x:                |
+| Pokemon esmerald   | :x: |
 | 0.0   | :x:                |
+| its the only version and never will update 99% | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
-No digan si encuentran algo o mi profe me pone 0
+Dont clone the repository only fork jahaha :cry:
